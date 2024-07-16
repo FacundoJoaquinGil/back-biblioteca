@@ -1,151 +1,72 @@
 {
-    "prendas": [
-      {
-        "nombrePrenda": "Remera new balance - hombre",
-        "precio": "7000",
-        "imagen": "https://s3.sa-east-1.amazonaws.com/www.vaypol.com.ar/variants/hybs7zok071nbz3mybczdgv1l68b/c77c2a06864ac9aca38dc5bd9371de015471edcdbf322dfb14411689bf968ae5",
-        "categoria": "Remeras",
-        "color": "#af4b4b",
-        "talle": "L",
-        "descripcion": "Remera deportiva color negra fabricada con tela de avion",
-        "id": 2
-      },
-      {
-        "nombrePrenda": "Pantalon Umbro - hombre",
-        "precio": "7000",
-        "imagen": "https://umbroar.vtexassets.com/arquivos/ids/2292453-800-auto?v=638140588902700000&width=800&height=auto&aspect=true",
-        "categoria": "Pantalones Largos",
-        "color": "#0f0f0f",
-        "talle": "Lsd",
-        "descripcion": "Pantalon color negro, marca umbro, de algodon.",
-        "id": 3
-      },
-      {
-        "nombrePrenda": "Conjunto Puma - hombre",
-        "precio": "10000",
-        "imagen": "https://sporting.vtexassets.com/arquivos/ids/792826-800-800?v=638195163379700000&width=800&height=800&aspect=true",
-        "categoria": "Conjuntos",
-        "color": "#fb0909",
-        "talle": "M",
-        "descripcion": "Conjunto deportivo Puma, color rojo con negro, ",
-        "id": 4
-      },
-      {
-        "nombrePrenda": "Pantalon largo Adidas - hombre",
-        "precio": "8000",
-        "imagen": "https://essential.vtexassets.com/arquivos/ids/932423-800-auto?v=638235631919800000&width=800&height=auto&aspect=true",
-        "categoria": "Pantalones Largos",
-        "color": "#000000",
-        "talle": "S",
-        "descripcion": "Pantalon largo,  marca addidas, tela frizzada. ",
-        "id": 5
-      },
-      {
-        "nombrePrenda": "Calza negra lisa - mujer",
-        "precio": "3000",
-        "imagen": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/a33065e5345383887933a1b97eb6015f.jpg?imageMogr2/auto-orient%7CimageView2/2/w/1300/q/80/format/webp",
-        "categoria": "Pantalones Largos",
-        "color": "#000000",
-        "talle": "M",
-        "descripcion": "Calza negra lisa, tela elastizada, ideal para hacer yoga",
-        "id": 6
-      },
-      {
-        "nombrePrenda": "Pantalon new balance - hombre",
-        "precio": "5000",
-        "imagen": "https://acdn.mitiendanube.com/stores/001/165/935/products/pantalon-hombre-new-balance-essentials-n2l1550105501-83926c4c6ab3150f1c16656990198839-1024-1024.jpg",
-        "categoria": "Pantalones Largos",
-        "color": "#0096d6",
-        "talle": "L",
-        "descripcion": "Pantalon largo marca new balance color negro tela de algodon, ideal para ir al gym",
-        "id": 7
-      },
-      {
-        "nombrePrenda": "Remera Adidas verde - mujer",
-        "precio": "2500",
-        "imagen": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/69b6277eccca43388484af0201209b07_9366/remera-adicolor-classics-trifolio.jpg",
-        "categoria": "Remeras",
-        "color": "#00ff04",
-        "talle": "M",
-        "descripcion": "Remera adidas verde de algodon para mujer",
-        "id": 8
-      },
-      {
-        "nombrePrenda": "Remera Adidas blanca - mujer",
-        "precio": "25000",
-        "imagen": "https://i.pinimg.com/474x/73/0c/3c/730c3ccaa418324a31cf9204271e0263.jpg",
-        "categoria": "Remeras",
-        "color": "#ffffff",
-        "talle": "S",
-        "descripcion": "Remera adidas color blanca para mujer",
-        "id": 9
-      },
-      {
-        "nombrePrenda": "Remera adidas roja - mujer",
-        "precio": "2500",
-        "imagen": "https://cdn.shopify.com/s/files/1/0626/6539/2456/products/Q8Sm3SZBoc2zo4fGformato_2520scarpe-Recuperato.psd_0000_Livello_252019.jpg",
-        "categoria": "Remeras",
-        "color": "#ff0000",
-        "talle": "M",
-        "descripcion": "Remera adidas roja para mujer",
-        "id": 10
-      },
-      {
-        "nombrePrenda": "Remera Under Armor  - hombre",
-        "precio": "6000",
-        "imagen": "https://www.underarmour.com.ar/on/demandware.static/-/Sites-underarmour_staging/default/dw963086f4/new_images/1367066/195251243105/195251243105-1.jpeg",
-        "categoria": "Remeras",
-        "color": "#082b63",
-        "talle": "L",
-        "descripcion": "Remera marca under armor color azul oscuro para varon",
-        "id": 11
-      },
-      {
-        "nombrePrenda": "Reloj Smartwatch Redmi Xiaomi Lite",
-        "precio": "50000",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_795835-MLA49011477232_022022-F.webp",
-        "categoria": "Accesorios",
-        "color": "#000000",
-        "talle": "-",
-        "descripcion": "Xiaomi Lite Redmi Watch 2 Lite Sport 1.55\" caja de abs black, malla black de tpu silicona y bisel negro de plástico",
-        "id": 12
-      },
-      {
-        "nombrePrenda": "Smartwatch Imilab KW66 Smart W",
-        "precio": "35000",
-        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_684664-MLA44922050344_022021-F.webp",
-        "categoria": "Accesorios",
-        "color": "#000000",
-        "talle": "-",
-        "descripcion": "Smartwatch Imilab KW66 Smart Watch 1.28\" caja 45.3mm de aleación de zinc black, malla black de silicona",
-        "id": 13
-      },
-      {
-        "nombrePrenda": "Conjunto deportivo - mujer",
-        "precio": "16000",
-        "imagen": "https://ae01.alicdn.com/kf/HTB1kyLzXsfrK1RkSmLyq6xGApXa6/Rosa-de-arena-de-Yoga-mujeres-Yoga-conjuntos-deporte-Top-Yoga-pantalones-de-ropa-de-fitness.jpg_640x640.jpg",
-        "categoria": "Conjuntos",
-        "color": "#000000",
-        "talle": "M",
-        "descripcion": "Conjunto deportivo, Campera + pantalon, color negro con gris.",
-        "id": 14
-      },
-      {
-        "nombrePrenda": "Conjunto deportivo - mujer",
-        "precio": "18000",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRba1Roeiq-JNFeeqcsScweEmcUUREOHCuzDanYnW5YqiY9Hka005HC1Pss57sHNMJIPU&usqp=CAU",
-        "categoria": "Conjuntos",
-        "color": "#e00000",
-        "talle": "S",
-        "descripcion": "Conjunto deportivo mujer, talle s, color negro y rojo.",
-        "id": 15
-      }
-    ],
-    "usuarios": [
-      {
-        "id": 1,
-        "nombreUsuario": "admin",
-        "password": "123456"
-      }
-    ]
-  }
+  "libro": [
+    {
+      "id": 1,
+      "titulo": "El Alquimista",
+      "autor": "Paulo Coelho"
+    },
+    {
+      "titulo": "Juego de tronos",
+      "autor": "maximo",
+      "id": 2
+    },
+    {
+      "titulo": "Los ojos del perro siberiano",
+      "autor": "Antonio Santa Ana",
+      "id": 3
+    },
+    {
+      "titulo": "los 3 chanchitos 2.0",
+      "autor": " Joseph Jacobs",
+      "id": 4
+    }
+  ],
+  "prestamo": [
+    {
+      "id": 1,
+      "fechaEntrega": "13/11/2022",
+      "fechaDevolucion": "13/12/2022",
+      "alumnoId": 1,
+      "libroId": 1
+    },
+    {
+      "fechaEntrega": "2022-11-13",
+      "fechaDevolucion": "2022-11-10",
+      "libroId": "2",
+      "alumnoId": "2",
+      "id": 2
+    }
+  ],
+  "alumno": [
+    {
+      "nombre": "Joaquin Gil",
+      "dni": "42008014",
+      "direccion": "Avellaneda 118",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Joaquin Fuentes",
+      "dni": "37423893",
+      "direccion": "España 2456"
+    },
+    {
+      "nombre": "Javier Mascherano",
+      "dni": "34562452",
+      "direccion": "Su casa",
+      "id": 3
+    },
+    {
+      "nombre": "messi",
+      "direccion": "Barcelona",
+      "dni": "1111111",
+      "id": 4
+    },
+    {
+      "nombre": "Rodrigo De Paul",
+      "dni": "5246215",
+      "direccion": "Atletico Madrid",
+      "id": 5
+    }    
+  ]
+}
